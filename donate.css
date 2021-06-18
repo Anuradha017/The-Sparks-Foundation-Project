@@ -1,0 +1,29 @@
+body{
+    background-image: url("backg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+
+.center{
+    margin-top: 250px;
+    margin-left: 380px;
+    background: rgba(27, 26, 31, 0.7);
+    width: 850px;
+    padding: 30px;
+    border-radius: 8px;
+}
+
+h1
+{
+    color: white;
+}
+
+#h1{
+    margin-left: 100px;
+}
+
+#btn
+{
+    margin-top: 40px;
+    margin-left: 710px;
+}

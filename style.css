@@ -1,0 +1,39 @@
+body{
+    background-image: url("background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.center{
+    margin-top: 130px;
+    margin-left: 380px;
+}
+
+#img{
+    margin-left: 200px;
+    margin-bottom: 20px;
+    height: 300px;
+    width: 400px;
+}
+
+.buttons{
+    margin-left: 350px;
+    margin-top: 40px;
+    font-size: x-large;
+    font-weight: 600;
+}
+
+#h1{
+    margin-left: 50px;
+}
+
+.btn2{
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    border-radius: 12px;
+    background-color: red;
+    color: white;
+    border-style: none;
+}
